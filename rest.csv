@@ -1,0 +1,100 @@
+id,typ,time,intent,entity,city,state,country,restname,paytype,year,month,date
+FB:1234,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2018,JAN,1
+FB:3456,and,,RS,,Delhi,Delhi,India,XYZ,NB,2019,FEB,2
+FB:3456,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2018,MAR,3
+FB:2334,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2019,APR,13
+FB:6789,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2018,MAY,12
+TW:2346,and,,RI,,Delhi,Delhi,India,XYZ,NB,2019,JUN,14
+TW:2346,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2018,JUL,16
+TW:2347,and,,RI,,Bangalore,Karnataka,India,EFG,OTH,2019,AUG,17
+TW:2348,ios,,RI,,Mumbai,Maharatra,India,ABC,CC,2018,SEP,18
+TW:2349,and,,RI,,Delhi,Delhi,India,XYZ,NB,2019,OCT,21
+TW:2350,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2018,NOV  ,30
+TW:2351,and,,RI,,Bangalore,Karnataka,India,EFG,OTH,2019,DEC,31
+TW:2352,ios,,RI,,Mumbai,Maharatra,India,ABC,CC,2018,JAN,26
+TW:2353,and,,RS,,Delhi,Delhi,India,XYZ,NB,2019,FEB,21
+TW:2354,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2018,MAR,23
+TW:2355,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2019,APR,25
+TW:2356,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2018,MAY,4
+TW:2357,and,,RS,,Delhi,Delhi,India,XYZ,NB,2019,JUN,5
+TW:2358,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2018,JUL,6
+TW:2359,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2019,AUG,7
+AP:1112,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2018,SEP,8
+AP:1113,and,,RS,,Delhi,Delhi,India,XYZ,NB,2019,OCT,12
+AP:1114,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2018,NOV  ,12
+AP:1115,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2019,DEC,13
+AP:1116,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2018,JAN,14
+AP:1117,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,FEB,15
+AP:1118,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,16
+AP:1119,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,17
+AP:1120,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,18
+AP:1121,and,,RI,,Delhi,Delhi,India,XYZ,NB,2018,JUN,19
+AP:1122,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,21
+AP:1123,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,22
+AP:1124,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,11
+AP:1125,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,OCT,17
+AP:1126,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,16
+AP:1127,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,24
+AP:1128,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,27
+AP:1129,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,FEB,30
+AP:1130,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,31
+AP:1131,and,,RI,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,27
+AP:1132,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,21
+AP:1133,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,JUN,22
+AP:1134,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,11
+AP:1135,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,17
+AP:1136,ios,,RI,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,16
+AP:1137,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,OCT,24
+AP:1138,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,27
+AP:1139,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,30
+AP:1140,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,31
+AP:1141,and,,RI,,Delhi,Delhi,India,XYZ,NB,2018,FEB,27
+AP:1142,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,21
+AP:1143,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,22
+AP:1144,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,11
+AP:1145,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,JUN,17
+AP:1146,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,16
+AP:1147,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,24
+AP:1148,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,27
+AP:1149,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,OCT,30
+AP:1150,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,31
+AP:1151,and,,RI,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,27
+AP:1152,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,21
+AP:1153,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,FEB,22
+AP:1154,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,11
+AP:1155,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,17
+AP:1156,ios,,RI,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,16
+AP:1157,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,JUN,24
+AP:1158,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,27
+AP:1159,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,30
+AP:1160,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,31
+AP:1161,and,,RI,,Delhi,Delhi,India,XYZ,NB,2018,OCT,27
+AP:1162,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,21
+AP:1163,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,22
+AP:1164,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,11
+AP:1165,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,FEB,17
+AP:1166,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,16
+AP:1167,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,24
+AP:1168,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,27
+AP:1169,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,JUN,30
+AP:1170,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,31
+AP:1171,and,,RI,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,27
+AP:1172,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,21
+AP:1173,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,OCT,22
+AP:1174,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,11
+AP:1175,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,17
+AP:1176,ios,,RI,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,16
+AP:1177,and,,RA,,Delhi,Delhi,India,XYZ,NB,2018,FEB,24
+AP:1178,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,27
+AP:1179,and,,RS,,Bangalore,Karnataka,India,EFG,OTH,2018,APR,30
+AP:1180,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,MAY,31
+AP:1181,and,,RI,,Delhi,Delhi,India,XYZ,NB,2018,JUN,27
+AP:1182,ios,,RA,,Kolkata,West Bengal,India,CDE,DB,2019,JUL,21
+AP:1183,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,AUG,22
+AP:1184,ios,,RS,,Mumbai,Maharatra,India,ABC,CC,2019,SEP,11
+AP:1185,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,OCT,17
+AP:1186,ios,,RI,,Kolkata,West Bengal,India,CDE,DB,2019,NOV  ,16
+AP:1187,and,,RA,,Bangalore,Karnataka,India,EFG,OTH,2018,DEC,24
+AP:1188,ios,,RA,,Mumbai,Maharatra,India,ABC,CC,2019,JAN,27
+AP:1189,and,,RS,,Delhi,Delhi,India,XYZ,NB,2018,FEB,30
+AP:1190,ios,,RS,,Kolkata,West Bengal,India,CDE,DB,2019,MAR,31
